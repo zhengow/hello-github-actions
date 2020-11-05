@@ -4,4 +4,4 @@ This course will walk you through writing your first action and using it with a 
 
 **Ready to get started? Navigate to the first issue.**
 
-Hey, how are u?
+Hey, how are u??
